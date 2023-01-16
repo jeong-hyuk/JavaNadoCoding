@@ -50,7 +50,6 @@ public class _04_MultiArrayLoop {
                 System.out.print(seats3[i][j] + " ");
             }
             System.out.println();
-
         }
     }
 }
