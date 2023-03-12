@@ -19,4 +19,5 @@
 2023.02.25 try-finally 대신 try-with-resources를 사용하라  
 2023.02.27 인스턴스화를 막으려거든 private 생성자를 사용하라  
 2023.03.06 equals는 일반 규약을 지켜 재정의하라  
-equals를 재정의하려거든 hashCode도 재정의하라
+equals를 재정의하려거든 hashCode도 재정의하라  
+toString을 항상 재정의하라
